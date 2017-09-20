@@ -1,0 +1,54 @@
+@import url("fontStyle.css");
+
+#body{
+	width: 100%;
+
+}
+
+.body{
+	float: left;
+}
+.body.left{
+	width: 65%;
+}
+.body.right{
+	width: 35%;
+}
+
+.container-left{
+	height: 5em;
+	width: 	75%;
+	margin-left: 2%;
+}
+
+.container-right{
+	height: 5em;
+	width: 	95%;
+	margin-right: 4%;
+}
+
+.title-box{
+	font-family: "Lucida Console", Times, serif;
+	font-size: 0.2in;
+	border-bottom: 5px solid #FAFAFA;
+	height: 1.5em;
+	margin-top: 5%;
+	width: auto;
+	height: auto;
+}
+
+.contain-information{
+	margin-top: 2%;
+}
+
+.contain-information-work{
+	border-left: 5px solid #FAFAFA;
+	margin-left: 10%;
+	margin-top: 2%;
+}
+
+.contain-information-work p{
+	margin-left: 5%;
+	font-size: 20px;
+	color: gray;
+}
